@@ -1,4 +1,4 @@
-public class PartTime {
+public class PartTimeUC3 {
             public static void main(String[] args){
                 int isPartTime = 1;
                 int isFullTime = 2;
